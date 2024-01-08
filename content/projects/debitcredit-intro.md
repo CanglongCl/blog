@@ -7,7 +7,7 @@ date: 2024-01-06
 
 **DebitCredit** 是一款**基于复式记账法的记账工具 App**，也是本人在 WWDC 2023 学生挑战赛的提交的参赛作品。通过精心设计，DebitCredit 能让即使没有会计学知识的普通人也能轻松借助复式记账法这一强大工具管理自己的财务。在 WWDC 2023 学生挑战赛中，DebitCredit 作为获奖项目之一，[受到了苹果公司首席执行官 Tim Cook 的高度评价](https://baijiahao.baidu.com/s?id=1768585053703728930&wfr=spider&for=pc)。DebitCredit 现已上架 [App Store](https://apps.apple.com/us/app/debitcredit/id6467542650)，参赛作品也已在 [GitHub](https://github.com/CanglongCl/DebitCredit.swiftpm) 开源。
 
-![Debit Credit 的截图](/public/images/debit-credit-screenshot.png)
+![Debit Credit 的截图](/images/debit-credit-screenshot.png)
 
 复式记账法是一种强大与灵活的记账方法，也是当今世界记账方法的事实标准，世界上几乎所有的公司都采用复式记账法管理收支与财务数据。然而，使用这一方法需要掌握一定的会计学知识，还需要理清“借”“贷”这样复杂的概念，并为每笔账选择借方与贷方账户。即使学习过会计学课程的学生，也很难很快反应与正确选择。相对的，单式记账法相比复式记账法更简单直观，因此目前 App Store 上的财务软件大多采用单式记账法。然而，相比于复式记账法，单式记账法缺乏灵活性和准确性。
 
